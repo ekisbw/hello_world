@@ -1,7 +1,7 @@
 # hello_world
 beggining to use GitHub
 
-This is my first attempt to using GitHub. 
+This is my first true attempt to using GitHub. 
 This will enable me to assist me in learning to code as I have been told
 there are great resources available on this platform.
 
